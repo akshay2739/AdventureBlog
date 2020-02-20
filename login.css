@@ -1,0 +1,46 @@
+.login{
+    width:100%;
+    margin-top:10px;
+    text-align:center;
+    border:solid black 2px;
+}
+.login h1{
+    font-size:25px;
+}
+label{
+    font-size:20px;
+}
+input[type=text]{
+    width:200px;
+    height:25px;
+    margin:20px;
+}
+input[type=password]{
+    width:200px;
+    height:25px;
+    margin-bottom:20px;
+}
+input[type=email]{
+    width:200px;
+    height:25px;
+    margin-bottom:20px;
+}
+input[type=date]{
+    width:200px;
+    height:25px;
+    margin-bottom:20px;
+}
+input[type=submit]{
+    border:solid black 1px;
+    background-color: green;
+    padding:5px;
+    font-size:15px;
+    margin-bottom:10px;
+}
+
+.signup{
+    width:100%;
+    margin-top:10px;
+    text-align:center;
+    border:solid black 2px;
+}
